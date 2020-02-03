@@ -4,6 +4,13 @@ Winform 自动窗体缩放类库
 
 A Auto resize library for WinForm
 
+原仓库：https://github.com/simplerjiang/AutoSizeFormClass
+
+
+Nuget:[![Simplerjiang.WinFormAutoSize](https://img.shields.io/nuget/v/Simplerjiang.WinFormAutoSize)](https://www.nuget.org/packages/Simplerjiang.WinFormAutoSize/)
+[![Simplerjiang.WinFormAutoSize](https://img.shields.io/nuget/dt/Simplerjiang.WinFormAutoSize)](https://www.nuget.org/packages/Simplerjiang.WinFormAutoSize/)
+
+
 #### 环境
 .net framework 4.5
 
