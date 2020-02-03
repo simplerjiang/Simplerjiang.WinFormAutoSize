@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace Simplerjiang.WinFormAutoSize
 {
-    class AutoSizeFormClass
+    public class AutoSizeFormClass
     {
         //(1).声明结构,只记录窗体和其控件的初始位置和大小。
-        public struct controlRect
+        private struct controlRect
         {
             public int Left;
             public int Top;
@@ -20,7 +16,7 @@ namespace Simplerjiang.WinFormAutoSize
         //(2).声明 1个对象
         //注意这里不能使用控件列表记录 List nCtrl;，因为控件的关联性，记录的始终是当前的大小。
         //      public List oldCtrl= new List();//这里将西文的大于小于号都过滤掉了，只能改为中文的，使用中要改回西文
-        public List<controlRect> oldCtrl = new List<controlRect>();
+        private List<controlRect> oldCtrl = new List<controlRect>();
         int ctrlNo = 0;//1;
         //(3). 创建两个函数
         //(3.1)记录窗体和其控件的初始位置和大小,

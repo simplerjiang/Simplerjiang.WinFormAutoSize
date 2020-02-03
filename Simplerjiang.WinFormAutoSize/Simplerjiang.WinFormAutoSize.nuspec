@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Simplerjiang.WinFormAutoSize</id>
+    <version>4.5.0.1</version>
+    <title>Simplerjiang.WinFormAutoSize</title>
+    <authors>simplerjiang</authors>
+    <owners>simplerjiang</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">GPLv3</license>
+    <projectUrl>https://github.com/simplerjiang/Simplerjiang.WinFormAutoSize</projectUrl>
+    <iconUrl>http://update.kongsites.com/logo200x200.png</iconUrl>
+    <description>A Easy Resize Form Class For WinForm</description>
+    <releaseNotes>Document pls check in Github</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>.Net4.5 WinForm</tags>
+  </metadata>
+</package>
