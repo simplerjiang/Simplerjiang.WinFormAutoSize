@@ -16,7 +16,8 @@ Nuget:[![Simplerjiang.WinFormAutoSize](https://img.shields.io/nuget/v/Simplerjia
 
 #### 使用方法：
 
-1.项目引入AutoSizeFormClass.dll
+1.Nuget 下载 **Simplerjiang.WinFormAutoSize**
+
 2.Form中添加即可
 
 ```C#
