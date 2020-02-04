@@ -12,7 +12,7 @@ Nuget:[![Simplerjiang.WinFormAutoSize](https://img.shields.io/nuget/v/Simplerjia
 
 
 #### 环境
-.net framework 4.5
+.net framework 4.5+
 
 #### 使用方法：
 
